@@ -1,3 +1,5 @@
+[![image](http://ir_wp.s3.amazonaws.com/wp-content/uploads/sites/19/2014/09/rmq_plugin.png)](http://rubymotionquery.com)
+
 RubyMotionQuery - RMQ - Plugin Template
 ===================
 
