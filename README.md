@@ -3,7 +3,7 @@
 RubyMotionQuery - RMQ - Plugin Template
 ===================
 
-A starting template for RubyMotionQuery (https://github.com/infinitered/rmq) plugins.
+A starting template for RubyMotionQuery (https://github.com/infinitered/rmq) plugins maintained by ![Infinite Red](http://infinite.red), a web and mobile development company based in Portland, OR and San Francisco, CA.
 
 ## Install and use template
 You can use this template straight off github if you have RubyMotion >= 2.3
